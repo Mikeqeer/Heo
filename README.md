@@ -1,4 +1,3 @@
-# Heo
 # Solar Energy Management System
 
 This project is designed to help users manage and monitor their solar energy usage effectively. It includes features like energy load calculation, real-time solar production tracking, and battery status overview.
@@ -15,6 +14,10 @@ This project is designed to help users manage and monitor their solar energy usa
 
 This tool was developed to support individuals and businesses looking to optimize their solar power systems. Whether you're managing a small home installation or a commercial setup, this tool provides the insights you need.
 
-If you're searching for a reliable [solar company in Lahore]([https://your-link.com](https://oespak.com)), this project can help you understand your solar needs before you make a purchase or consult an installer.
+Looking for the [best solar company in Lahore](https://oespak.com)? Visit their website to explore high-quality solar solutions for homes and businesses.
 
+## Installation
 
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/solar-energy-management.git
